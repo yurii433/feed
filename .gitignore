@@ -1,0 +1,6 @@
+# DEFAULT GITIGNORE FOR THIS PROJECT
+*.sketch
+*.fig
+*.xd
+.DS_Store
+.prettierignore
